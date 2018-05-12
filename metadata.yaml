@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1056
     wikipedia: http://en.wikipedia.org/wiki/William_Harrison_Ainsworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44523#Jack-Sheppard-Vol.-III--of-III-A-Romance
 gutenberg_issued: '2013-12-26'
 gutenberg_type: Text
 identifiers:
